@@ -8,10 +8,15 @@
 ### how to install it?
 
 `git clone  https://github.com/paulumi/Ekualizer-Music.git`
+
 cd `Ekualizers-Music`
+
 `chmod +x *`
+
 `./installEx`
+
 `./ND`
+
 
 - [ ] Help Me
 >foto1
