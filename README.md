@@ -2,7 +2,7 @@
 # [Ekualizers-Music](url)
 
 
-#For the perfect music listening experience, Equalizer + will produce a smooth transition between tracks for you.
+_#For the perfect music listening experience, Equalizer + will produce a smooth transition between tracks for you._
 
 
 ### how to install it?
