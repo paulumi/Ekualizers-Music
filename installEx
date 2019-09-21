@@ -1,0 +1,19 @@
+echo sedang installing music+ekualizers,sabar ya brow?
+termux-setup-storage
+pkg install toilet
+pkg install figlet
+pkg install mpd
+pkg install ncmpcpp
+pkg upgrade ncmpcpp
+pkg update ncmpcpp
+pkg update mpd
+pkg upgrade mpd
+clear
+figlet -f future "mr.ND"
+figlet -f future "Ekualizer+Mp3"
+echo [!] Kalau kurang paham jalaninnya :
+echo [!] CP:081932309343 / Paulumi/mr.ND
+echo
+echo [!] Note :
+echo [!] Untuk membuka masbro,sediain kopi+rokok
+echo [!] Setelah itu silahkan ketik bash ND / ./ND
