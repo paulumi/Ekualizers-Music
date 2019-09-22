@@ -2,8 +2,9 @@
 # [Ekualizers-Music](url)
 
 
-_#For the perfect music listening experience, Equalizer + will produce a smooth transition between tracks for you._
+_#For the perfect music listening unique, Equalizer + Mp3 will produce a smooth transition between tracks for you._
 
+__Playing__
 
 ### how to install it?
 
